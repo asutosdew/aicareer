@@ -1,0 +1,20 @@
+# Local SQLite databases
+*.sqlite
+*.sqlite3
+config/local_database.sqlite
+
+# Compressed archives for hosting
+upload.zip
+*.zip
+*.tar.gz
+
+# Logs & temp files
+*.log
+error_log
+.tmp/
+
+# IDE / OS specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
